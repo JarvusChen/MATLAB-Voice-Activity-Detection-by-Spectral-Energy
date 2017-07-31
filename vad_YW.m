@@ -1,7 +1,7 @@
 %function [activeNum, pos] = vad_YW(speech, fs, plotMode, activeBuffer, activeMax, energyTh2)
 %%     By YI-WEN CHEN, 2017
 %     1. Voice activity detection by spectral energy.
-%     2. Read more at www.jarvus.net
+%     2. Read more at http://jarvus.dragonbeef.net/note/noteAudioVAD.php
 % 
 %     Required Input Parameters : 
 %       speech      Speech data
