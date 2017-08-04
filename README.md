@@ -3,7 +3,7 @@ Speech end points detection by spectral energy
 
 Introduction website: http://jarvus.dragonbeef.net/note/noteAudioVAD.php
 
-Demo video: (recording)
+Demo video: https://youtu.be/UcYe0czgZwU
 
 ### You can run this code by only p code
 Full code for advanced cases:
