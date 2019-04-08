@@ -1,12 +1,12 @@
 # MATLAB-Voice-Activity-Detection-by-Spectral-Energy
 Speech end points detection by spectral energy
 
-Introduction website: http://jarvus.dragonbeef.net/note/noteAudioVAD.php
+### You can run this function by only p code!
 
-Demo video: https://youtu.be/UcYe0czgZwU
+#### Demo video
+https://youtu.be/UcYe0czgZwU
 
-### You can run this code by only p code
-Full code for advanced cases:
-- Donate USD 20 ( TWD 600 )
-- Will provide m file and its manual
-- http://jarvus.dragonbeef.net/donate.php
+#### Introduction & M file
+https://medium.com/audio-processing-by-matlab/voice-activity-detection-by-spectral-energy-by-matlab-6c555e7d97d0
+#### Tutorial & Contact Jarvus
+https://medium.com/audio-processing-by-matlab
